@@ -3,7 +3,7 @@
 Instructions
 
 
-Your survey should have 10 questions of your choosing. Each answer should be on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
+<!-- Your survey should have 10 questions of your choosing. Each answer should be on a scale of 1 to 5 based on how much the user agrees or disagrees with a question. -->
 
 <!-- Your server.js file should require the basic npm packages we've used in class: express and path. -->
 
@@ -103,29 +103,11 @@ Please see Heroku’s Account Verification Information for more details.
 See the Supplemental Heroku Deployment Guide for in-detail deployment instructions.
 
 
-
-
-Create a README.md
-
-Add a README.md to your repository describing the project. Here are some resources for creating your README.md. Here are some resources to help you along the way:
-
-
-About READMEs
-Mastering Markdown
+<!-- update profile and make the pages of the book turn -->
 
 
 
 
 
-Add To Your Portfolio
-
-After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio.
 
 
-
-
-One More Thing
-
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
-
-Good Luck!
