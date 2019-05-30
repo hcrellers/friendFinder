@@ -1,3 +1,5 @@
+const friendsArray = require("../data/friends");
+
 
 function apiRoutes(app) {
 
