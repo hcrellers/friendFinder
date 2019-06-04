@@ -19,6 +19,7 @@
   "homepage": "https://github.com/hcrellers/friendFinder#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "heroku": "^7.24.4",
     "path": "^0.12.7"
   }
 }
